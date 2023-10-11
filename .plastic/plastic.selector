@@ -1,0 +1,4 @@
+repository "S08P22A806@SSAFY_A806@cloud"
+  path "/"
+    smartbranch "/main"                                                               
+     

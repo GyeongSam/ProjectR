@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/Common/Lobby.unity
+    guid: 30b5c140fc354e240b7211fb2367e17b
+  - enabled: 1
+    path: Assets/Scenes/Common/LogIn.unity
+    guid: c36382c3be10ded47968bdd48c355a62
+  - enabled: 1
+    path: Assets/Scenes/StageB/Tilting.unity
+    guid: 113d6e7936496b443939ec0eb5ebd315
+  - enabled: 1
+    path: Assets/Scenes/StageD/DontFallPrototype.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/StageE/StageE.unity
+    guid: bd4eaa15a8855164586d68bd5329a2dd
+  - enabled: 1
+    path: Assets/Scenes/StageC/TetrisScene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 0
+    path: Assets/Scenes/Village/test.unity
+    guid: c08fca26a4496744b907e6108c5cd432
+  - enabled: 1
+    path: Assets/Scenes/Village/Village.unity
+    guid: c82d341b357cfc04cb914d4e118cc191
+  m_configObjects: {}

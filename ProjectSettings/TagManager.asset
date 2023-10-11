@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Floor
+  - Plane
+  - Obstacle
+  - Star
+  - Key
+  - Plate
+  - Text
+  - Tetromino
+  - Bomb
+  - Foot
+  - Ground
+  - PlayerBody
+  - Trampoline
+  - InteractionObject
+  - Mirror
+  - Sound
+  - MapObject
+  - Sea
+  - Fail
+  - RoomListEntity
+  - Party
+  - Ranking
+  - MyProfile
+  - Door
+  - Floes
+  - RecallPosition
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - obstacle
+  - Mirror
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
